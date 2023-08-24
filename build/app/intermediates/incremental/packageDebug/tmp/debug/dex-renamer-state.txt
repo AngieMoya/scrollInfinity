@@ -1,0 +1,4 @@
+#Thu Aug 24 08:39:15 COT 2023
+base.0=/Users/angie/Documents/flutter_workshop/mobile2/gyphi/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
