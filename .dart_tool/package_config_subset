@@ -126,10 +126,6 @@ http_parser
 2.12
 file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2/
 file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.2/lib/
-infinite_scroll_pagination
-2.12
-file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/infinite_scroll_pagination-3.2.0/
-file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/infinite_scroll_pagination-3.2.0/lib/
 io
 2.12
 file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/io-1.0.4/
@@ -194,10 +190,6 @@ shelf_web_socket
 2.17
 file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.4/
 file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/shelf_web_socket-1.0.4/lib/
-sliver_tools
-2.12
-file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/sliver_tools-0.2.12/
-file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/sliver_tools-0.2.12/lib/
 source_span
 2.14
 file:///Users/angie/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.0/
